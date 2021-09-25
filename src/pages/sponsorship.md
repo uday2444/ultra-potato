@@ -21,7 +21,7 @@ seo:
       value: This is the sponsorship page
 template: page
 ---
-# Industries We Serve&#xA;&#xA;
+#
 
 > **Facility Management**
 
@@ -48,6 +48,8 @@ template: page
 *   Employees Evaluation
 
 *
+
+<!---->
 
     *   Establishing performance standards\* Evaluating performance\* Training and development
 
