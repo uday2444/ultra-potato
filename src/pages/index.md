@@ -18,6 +18,7 @@ sections:
     background_image: images/hero-background.jpg
     background_image_opacity: 15
     background_image_size: cover
+    media_position: right
   - type: grid_section
     grid_items:
       - title: Make Better Decisions With Humanity
