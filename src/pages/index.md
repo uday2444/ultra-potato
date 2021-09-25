@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Define. Excel. Accelerate.
-    subtitle: Conference for Creative People
     content: >+
       Consulting for services that vow future business success, you design we
       serve
