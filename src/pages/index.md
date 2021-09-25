@@ -123,7 +123,7 @@ sections:
     actions: []
     grid_items:
       - title: Facility Mangement
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
