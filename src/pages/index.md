@@ -119,7 +119,7 @@ sections:
     align: center
     padding_top: none
     background_color: none
-  - title: Services We Offer
+  - title: Facility Management
     subtitle: Solutions We Provide
     actions: []
     grid_items:
