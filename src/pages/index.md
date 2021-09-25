@@ -252,7 +252,7 @@ sections:
     title: How Do We Work !
     subtitle: 'Supporting The Cause, Building Working Together Platform'
   - type: cta_section
-    title: This is a call to action
+    title: This is a Call to Action
     actions:
       - label: Get tickets
         url: /thank-you
