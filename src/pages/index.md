@@ -166,7 +166,7 @@ sections:
         content_align: left
         actions:
           - label: Read More
-            url: '#'
+            url: /marketingstrategies
             style: link
             has_icon: false
             icon: arrow-left
