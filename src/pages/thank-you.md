@@ -5,7 +5,7 @@ sections:
     actions: []
     align: center
     padding_bottom: large
-    background_color: none
+    background_color: primary
     title: Get in touch
     subtitle: 'It''s pleasure connecting, looking to your valuable association'
   - title: lorem-ipsum
