@@ -45,7 +45,11 @@ sections:
         image_width: twenty-five
       - title: What We Do
         title_align: left
-        content: Best in the field speakers and instructors.
+        content: >+
+          We "Work - Grow - Align" the whole process towards a common purpose
+          which will be a starting point for generating useful value to customer
+          and society.
+
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
