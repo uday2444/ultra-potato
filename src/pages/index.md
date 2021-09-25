@@ -124,8 +124,6 @@ sections:
     grid_items:
       - title: Facility Mangement
         title_align: center
-        content: |
-          ##
         content_align: left
         actions: []
         actions_align: left
