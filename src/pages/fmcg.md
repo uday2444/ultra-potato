@@ -2,7 +2,6 @@
 title: lorem-ipsum
 sections:
   - title: FMCG BTL SERVICE
-    subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
     align: center
