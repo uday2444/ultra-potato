@@ -3,8 +3,7 @@ title: Facility Management
 sections:
   - title: FACILITY MANAGEMENT
     features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
