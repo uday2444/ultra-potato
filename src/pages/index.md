@@ -252,7 +252,7 @@ sections:
     title: How Do We Work !
     subtitle: 'Supporting The Cause, Building Working Together Platform'
   - type: cta_section
-    title: Current price is only $49. The price will increase soon!
+    title: This is a call to action
     actions:
       - label: Get tickets
         url: /thank-you
