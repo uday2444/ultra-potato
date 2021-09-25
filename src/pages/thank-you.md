@@ -44,7 +44,8 @@ sections:
       - input_type: select
         name: Subject
         label: Subject
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         default_value: Select from List
       - input_type: text
