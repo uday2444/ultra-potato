@@ -50,7 +50,7 @@ sections:
           - Marketing Strategies
         is_required: false
         default_value: Select from List
-      - input_type: text
+      - input_type: textarea
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
