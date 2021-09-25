@@ -38,7 +38,7 @@ sections:
       - input_type: email
         name: E-Mail
         label: E-Mail
-        default_value: lorem-ipsum
+        default_value: Your email-id
         options: []
         is_required: false
       - input_type: text
