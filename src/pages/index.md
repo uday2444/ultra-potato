@@ -161,6 +161,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/resize-163198841962568202abstractblurdefocusedsupermarket2.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
