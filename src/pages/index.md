@@ -210,6 +210,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    title: How Do We Work !
   - type: cta_section
     title: Current price is only $49. The price will increase soon!
     actions:
