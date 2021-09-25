@@ -91,10 +91,15 @@ sections:
         media_position: right
         media_width: sixty
       - title: We Will Urge To Serve Better
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+        content: >
+          Operations decisions include decisions that are strategic in nature,
+          meaning that they have long-term consequences and often involve a
+          great deal of expense and resource commitments.
+
+
+
+          Employee’s talent empowerment and rigorously training by seeing their
+          present level of knowledge and areas of improvement needed
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
