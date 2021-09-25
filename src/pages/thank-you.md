@@ -8,7 +8,7 @@ sections:
     background_color: primary
     title: Get in touch
     subtitle: 'It''s pleasure connecting, looking to your valuable association'
-  - title: Contact Now
+  - title: 'Contact '
     subtitle: lorem-ipsum
     title_align: left
     content: >-
