@@ -198,8 +198,7 @@ sections:
     type: grid_section
     subtitle: Solutions We Provide
   - features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
