@@ -119,23 +119,6 @@ sections:
     align: center
     padding_top: none
     background_color: none
-  - type: cta_section
-    title: Current price is only $49. The price will increase soon!
-    actions:
-      - label: Get tickets
-        url: /thank-you
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/cta-background.png
-    background_image_opacity: 50
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
@@ -154,6 +137,23 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: cta_section
+    title: Current price is only $49. The price will increase soon!
+    actions:
+      - label: Get tickets
+        url: /thank-you
+        style: primary
+        has_icon: true
+        icon: arrow-right
+        icon_position: right
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
+    background_image: images/cta-background.png
+    background_image_opacity: 50
   - type: grid_section
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
