@@ -278,11 +278,9 @@ sections:
 
           [www.trustsecurefmhr@gmail.com](http://www.trustsecurefmhr@gmail.com/)
       - title: Follow Us
-        content: |-
-          [Youtube](https://www.youtube.com/)<br/>
-          [Medium](https://medium.com/)<br/>
-          [Facebook](https://www.facebook.com/)<br/>
-          [Twitter](https://twitter.com/home)<br/>
+        content: |
+          [Linkedin](https://www.linkedin.com/company/79639336/admin/)
+          [Facebook](https://www.facebook.com/TrustSecureFacilityManagement)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
