@@ -2,7 +2,6 @@
 title: Thank You
 sections:
   - type: hero_section
-    title: Thank You!
     subtitle: Thank you for testing the Event theme!
     actions: []
     align: center
