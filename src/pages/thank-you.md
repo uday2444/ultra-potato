@@ -7,6 +7,7 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
+    title: Get in touch
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     title_align: left
