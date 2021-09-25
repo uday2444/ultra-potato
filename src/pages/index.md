@@ -207,7 +207,7 @@ sections:
         align: left
         title: Strategy
         image: images/strategy.jpeg
-      - title: lorem-ipsum
+      - title: Tactic
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
