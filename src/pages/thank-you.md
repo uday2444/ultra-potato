@@ -52,7 +52,7 @@ sections:
         default_value: Select from List
       - input_type: textarea
         name: Message
-        label: lorem-ipsum
+        label: Message
         default_value: lorem-ipsum
         options: []
         is_required: false
