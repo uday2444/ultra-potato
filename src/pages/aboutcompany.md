@@ -33,7 +33,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: top
-        media_width: sixty
+        media_width: thirty-three
         align: left
         image: images/pexels-fauxels-3184430.jpg
     feature_padding_vert: medium
