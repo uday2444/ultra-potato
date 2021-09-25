@@ -142,7 +142,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/facility.jpeg
-      - title: lorem-ipsum
+      - title: FMCG BTL Services
         subtitle: lorem-ipsum
         title_align: left
         content: >-
