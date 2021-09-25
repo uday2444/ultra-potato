@@ -216,6 +216,7 @@ sections:
         media_position: left
         media_width: fifty
         align: left
+        image: images/tactic.jpeg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
