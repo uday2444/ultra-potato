@@ -209,6 +209,7 @@ sections:
         media_width: fifty
         align: left
         title: Strategy
+        image: images/strategy.jpeg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
