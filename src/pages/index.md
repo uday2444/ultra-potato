@@ -234,7 +234,7 @@ sections:
           that add value for the customer.
         actions: []
         image_alt: lorem-ipsum
-        media_position: top
+        media_position: left
         media_width: fifty
         align: left
         image: images/operations.jpeg
