@@ -217,8 +217,7 @@ sections:
         media_width: fifty
         align: left
         image: images/tactic.jpeg
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
