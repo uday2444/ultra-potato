@@ -45,7 +45,7 @@ sections:
         name: Subject
         label: Subject
         options:
-          - lorem-ipsum
+          - Facility Management
         is_required: false
         default_value: Select from List
       - input_type: text
