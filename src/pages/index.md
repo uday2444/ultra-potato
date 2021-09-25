@@ -143,7 +143,7 @@ sections:
         image_has_padding: false
         image: images/facility.jpeg
       - title: FMCG BTL Services
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
