@@ -208,7 +208,6 @@ sections:
         title: Strategy
         image: images/strategy.jpeg
       - title: Tactic
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
