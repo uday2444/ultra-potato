@@ -208,17 +208,9 @@ sections:
         title: Strategy
         image: images/strategy.jpeg
       - title: Tactic
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          A maneuver or action calculated to achieve some end
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
