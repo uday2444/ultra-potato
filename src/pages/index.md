@@ -198,17 +198,8 @@ sections:
     type: grid_section
     subtitle: Solutions We Provide
   - features:
-      - content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - content: |
+          A plan of action intended to accomplish a specific goal.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
