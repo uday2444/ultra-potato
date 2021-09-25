@@ -119,7 +119,7 @@ sections:
     align: center
     padding_top: none
     background_color: none
-  - title: Services we offer
+  - title: Services We offer
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
