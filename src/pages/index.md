@@ -229,7 +229,6 @@ sections:
         title: Goals & Objectives
         image: images/goals3.jpeg
       - title: Operations Management
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
