@@ -9,7 +9,7 @@ sections:
 
     actions:
       - label: Explore More!
-        url: /about
+        url: /aboutcompany
         style: primary
     align: center
     padding_top: large
