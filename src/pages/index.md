@@ -22,9 +22,10 @@ sections:
     grid_items:
       - title: Make Better Decisions With Humanity
         title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+        content: >+
+          Rather than importing leaders, we make grow leaders who thoroughly
+          understands the companies principles
+
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
