@@ -1,7 +1,7 @@
 ---
 title: About Company
 sections:
-  - title: About Company
+  - title: About Our Company
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
