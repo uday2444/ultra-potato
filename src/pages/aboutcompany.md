@@ -35,7 +35,7 @@ sections:
         media_position: top
         media_width: sixty
         align: left
-        image: images/aboutcompany.jpeg
+        image: images/pexels-fauxels-3184430.jpg
     feature_padding_vert: medium
     align: center
     padding_top: medium
