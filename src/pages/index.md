@@ -119,7 +119,7 @@ sections:
     align: center
     padding_top: none
     background_color: none
-  - title: Facility Management
+  - title: Services We Offer
     actions: []
     grid_items:
       - title: lorem-ipsum
