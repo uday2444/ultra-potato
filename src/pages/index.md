@@ -205,6 +205,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    subtitle: Solutions We Provide
   - type: cta_section
     title: Current price is only $49. The price will increase soon!
     actions:
