@@ -4,8 +4,7 @@ sections:
   - title: About Our Company
     subtitle: Who We Are
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
