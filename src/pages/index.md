@@ -61,7 +61,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: false
     align: center
-    background_color: secondary
+    background_color: none
   - type: features_section
     title: What you’ll experience
     features:
