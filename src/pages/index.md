@@ -271,13 +271,12 @@ sections:
   - type: grid_section
     grid_items:
       - title: Location
-        content: |-
-          1234 Some St.<br/>
-          Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)<br/>
+        content: |
+          Bangalore
 
-          **Time:** 9:30 AM to 3:30 PM
+          9606604545
+
+          [www.trustsecurefmhr@gmail.com](http://www.trustsecurefmhr@gmail.com/)
       - title: Follow Us
         content: |-
           [Youtube](https://www.youtube.com/)<br/>
