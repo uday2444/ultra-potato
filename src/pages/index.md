@@ -226,6 +226,7 @@ sections:
         media_width: fifty
         align: left
         title: Goals & Objectives
+        image: images/goals3.jpeg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
