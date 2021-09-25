@@ -13,7 +13,7 @@
         "secondary_nav_links": [
             {
                 "label": "About",
-                "url": "/about",
+                "url": "/aboutcompany",
                 "style": "link"
             },
             {
