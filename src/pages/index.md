@@ -210,6 +210,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     title: How Do We Work !
+    subtitle: 'Supporting The Cause, Building Working Together Platform'
   - type: cta_section
     title: Current price is only $49. The price will increase soon!
     actions:
