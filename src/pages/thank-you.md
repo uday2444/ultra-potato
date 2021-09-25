@@ -46,7 +46,7 @@ sections:
         label: Subject
         options:
           - Facility Management
-          - lorem-ipsum
+          - FMCG BTL Services
         is_required: false
         default_value: Select from List
       - input_type: text
