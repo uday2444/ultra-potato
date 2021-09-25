@@ -9,7 +9,6 @@ sections:
     title: Get in touch
     subtitle: 'It''s pleasure connecting, looking to your valuable association'
   - title: 'Contact '
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
